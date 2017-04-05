@@ -6,7 +6,6 @@ package algorithm;
 	Given nums = [1, 2, 4, 8, 6, 3] return 8
 	Given nums = [10, 9, 8, 7], return 10
 
- * @author jiaqgao
  *
  */
 public class MaximumNumberInMountainSequence {

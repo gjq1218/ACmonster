@@ -11,7 +11,6 @@ package algorithm;
 	For target = 5, return 4 or 5.
 	For target = 6, return -1.
 
- * @author jiaqgao
  *
  */
 

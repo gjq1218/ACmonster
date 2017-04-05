@@ -11,7 +11,7 @@ For target = 2, return 2.
 For target = 5, return 5.
 
 For target = 6, return -1.
- * @author jiaqgao
+
  *
  */
 public class LastPositionofTarget {
