@@ -1,4 +1,4 @@
-package advancedAlgorithm;
+package algorithm;
 /**
  * Given a mountain sequence of n integers which increase firstly and then decrease, find the mountain top.
  * 
@@ -30,7 +30,7 @@ public class MaximumNumberInMountainSequence {
 		return nums[mid];
    }
 	public static void main(String args[]){
-		int[] nums = {1,2,4,8,6,3};
+	//	int[] nums = {1,2,4,8,6,3};
 		int[] nums2 = {10, 9, 8, 7};
 		MaximumNumberInMountainSequence test = new MaximumNumberInMountainSequence();
 		int res = test.mountainSequence(nums2);
